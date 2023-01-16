@@ -3,8 +3,8 @@ module github.com/0x5459/vsm-plugin/examples/fsstore
 go 1.18
 
 require (
+	github.com/0x5459/vsm-plugin v0.0.0-20230116034831-07bbfc169148
 	github.com/ipfs-force-community/venus-cluster/venus-sector-manager v0.0.0-20230116025714-984483827594
-	github.com/0x5459/vsm-plugin v0.0.0-20230116025714-984483827594
 	github.com/ipfs-force-community/venus-objstore v0.0.3
 )
 
