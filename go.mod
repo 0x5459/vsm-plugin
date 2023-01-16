@@ -1,4 +1,4 @@
-module github.com/ipfs-force-community/venus-cluster/venus-sector-manager/plugin
+module github.com/0x5459/vsm-plugin
 
 go 1.18
 
