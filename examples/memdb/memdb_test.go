@@ -4,8 +4,8 @@ import (
 	"context"
 	"testing"
 
-	memdb "github.com/ipfs-force-community/venus-cluster/venus-sector-manager/plugin/examples/memdb"
-	"github.com/ipfs-force-community/venus-cluster/venus-sector-manager/plugin/kvstore"
+	memdb "github.com/0x5459/vsm-plugin/examples/memdb"
+	"github.com/0x5459/vsm-plugin/kvstore"
 	"github.com/stretchr/testify/require"
 )
 

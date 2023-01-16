@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"unsafe"
 
-	"github.com/ipfs-force-community/venus-cluster/venus-sector-manager/plugin/kvstore"
+	"github.com/0x5459/vsm-plugin/kvstore"
 	objstore "github.com/ipfs-force-community/venus-objstore"
 )
 

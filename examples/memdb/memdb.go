@@ -5,8 +5,8 @@ import (
 	"context"
 	"sync"
 
-	"github.com/ipfs-force-community/venus-cluster/venus-sector-manager/plugin"
-	"github.com/ipfs-force-community/venus-cluster/venus-sector-manager/plugin/kvstore"
+	plugin "github.com/0x5459/vsm-plugin"
+	"github.com/0x5459/vsm-plugin/kvstore"
 	"github.com/tidwall/btree"
 )
 

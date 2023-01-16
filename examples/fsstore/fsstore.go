@@ -5,8 +5,8 @@ import (
 
 	objstore "github.com/ipfs-force-community/venus-objstore"
 
+	plugin "github.com/0x5459/vsm-plugin"
 	"github.com/ipfs-force-community/venus-cluster/venus-sector-manager/pkg/objstore/filestore"
-	"github.com/ipfs-force-community/venus-cluster/venus-sector-manager/plugin"
 )
 
 func OnInit(ctx context.Context, manifest *plugin.Manifest) error { return nil }

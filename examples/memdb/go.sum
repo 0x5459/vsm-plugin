@@ -2,10 +2,6 @@ github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ3
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
-github.com/ipfs-force-community/venus-cluster/venus-sector-manager/plugin v0.0.0-20230116025714-984483827594 h1:qD+CS9whFHfw9N4Aj5eZY+6A599acVAzfGvu6WV1UCc=
-github.com/ipfs-force-community/venus-cluster/venus-sector-manager/plugin v0.0.0-20230116025714-984483827594/go.mod h1:vnZczdkZmvlyH4BE9dwEj6dnM0Bhy9N70tRuAtZ9rqo=
-github.com/ipfs-force-community/venus-objstore v0.0.3 h1:/LyzD9UyF60ICEnBH3syfgpjAjqA2hCDwIrsjCloYRY=
-github.com/ipfs-force-community/venus-objstore v0.0.3/go.mod h1:f3i59qbe52av6PXUgk9qFa3PGS0CK76JnwoSpiyY0cM=
 github.com/kr/pretty v0.1.0/go.mod h1:dAy3ld7l9f0ibDNOQOHHMYYIIbhfbHSm3C4ZsoJORNo=
 github.com/kr/pretty v0.2.1/go.mod h1:ipq/a2n7PKx3OHsz4KJII5eveXtPO4qwEXGdVfWzfnI=
 github.com/kr/pretty v0.3.0 h1:WgNl7dwNpEZ6jJ9k1snq4pZsg7DOEN8hP9Xw0Tsjwk0=
